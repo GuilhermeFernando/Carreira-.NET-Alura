@@ -1,0 +1,14 @@
+H:\Desenvolvimento\Carreira .N ET Alura\Nivel 1\C#- Aplicando Orientação a Objeto\ScreenSound\bin\Debug\net8.0\ScreenSound.exe
+H:\Desenvolvimento\Carreira .N ET Alura\Nivel 1\C#- Aplicando Orientação a Objeto\ScreenSound\bin\Debug\net8.0\ScreenSound.deps.json
+H:\Desenvolvimento\Carreira .N ET Alura\Nivel 1\C#- Aplicando Orientação a Objeto\ScreenSound\bin\Debug\net8.0\ScreenSound.runtimeconfig.json
+H:\Desenvolvimento\Carreira .N ET Alura\Nivel 1\C#- Aplicando Orientação a Objeto\ScreenSound\bin\Debug\net8.0\ScreenSound.dll
+H:\Desenvolvimento\Carreira .N ET Alura\Nivel 1\C#- Aplicando Orientação a Objeto\ScreenSound\bin\Debug\net8.0\ScreenSound.pdb
+H:\Desenvolvimento\Carreira .N ET Alura\Nivel 1\C#- Aplicando Orientação a Objeto\ScreenSound\obj\Debug\net8.0\ScreenSound.GeneratedMSBuildEditorConfig.editorconfig
+H:\Desenvolvimento\Carreira .N ET Alura\Nivel 1\C#- Aplicando Orientação a Objeto\ScreenSound\obj\Debug\net8.0\ScreenSound.AssemblyInfoInputs.cache
+H:\Desenvolvimento\Carreira .N ET Alura\Nivel 1\C#- Aplicando Orientação a Objeto\ScreenSound\obj\Debug\net8.0\ScreenSound.AssemblyInfo.cs
+H:\Desenvolvimento\Carreira .N ET Alura\Nivel 1\C#- Aplicando Orientação a Objeto\ScreenSound\obj\Debug\net8.0\ScreenSound.csproj.CoreCompileInputs.cache
+H:\Desenvolvimento\Carreira .N ET Alura\Nivel 1\C#- Aplicando Orientação a Objeto\ScreenSound\obj\Debug\net8.0\ScreenSound.dll
+H:\Desenvolvimento\Carreira .N ET Alura\Nivel 1\C#- Aplicando Orientação a Objeto\ScreenSound\obj\Debug\net8.0\refint\ScreenSound.dll
+H:\Desenvolvimento\Carreira .N ET Alura\Nivel 1\C#- Aplicando Orientação a Objeto\ScreenSound\obj\Debug\net8.0\ScreenSound.pdb
+H:\Desenvolvimento\Carreira .N ET Alura\Nivel 1\C#- Aplicando Orientação a Objeto\ScreenSound\obj\Debug\net8.0\ScreenSound.genruntimeconfig.cache
+H:\Desenvolvimento\Carreira .N ET Alura\Nivel 1\C#- Aplicando Orientação a Objeto\ScreenSound\obj\Debug\net8.0\ref\ScreenSound.dll
