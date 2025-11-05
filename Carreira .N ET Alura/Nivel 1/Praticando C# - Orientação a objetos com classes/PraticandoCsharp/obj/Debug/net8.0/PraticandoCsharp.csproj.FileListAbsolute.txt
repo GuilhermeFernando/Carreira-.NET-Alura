@@ -1,0 +1,15 @@
+H:\Desenvolvimento\Carreira .N ET Alura\Nivel 1\Praticando C# - Orientação a objetos com classes\PraticandoCsharp\bin\Debug\net8.0\PraticandoCsharp.exe
+H:\Desenvolvimento\Carreira .N ET Alura\Nivel 1\Praticando C# - Orientação a objetos com classes\PraticandoCsharp\bin\Debug\net8.0\PraticandoCsharp.deps.json
+H:\Desenvolvimento\Carreira .N ET Alura\Nivel 1\Praticando C# - Orientação a objetos com classes\PraticandoCsharp\bin\Debug\net8.0\PraticandoCsharp.runtimeconfig.json
+H:\Desenvolvimento\Carreira .N ET Alura\Nivel 1\Praticando C# - Orientação a objetos com classes\PraticandoCsharp\bin\Debug\net8.0\PraticandoCsharp.dll
+H:\Desenvolvimento\Carreira .N ET Alura\Nivel 1\Praticando C# - Orientação a objetos com classes\PraticandoCsharp\bin\Debug\net8.0\PraticandoCsharp.pdb
+H:\Desenvolvimento\Carreira .N ET Alura\Nivel 1\Praticando C# - Orientação a objetos com classes\PraticandoCsharp\obj\Debug\net8.0\PraticandoCsharp.GeneratedMSBuildEditorConfig.editorconfig
+H:\Desenvolvimento\Carreira .N ET Alura\Nivel 1\Praticando C# - Orientação a objetos com classes\PraticandoCsharp\obj\Debug\net8.0\PraticandoCsharp.AssemblyInfoInputs.cache
+H:\Desenvolvimento\Carreira .N ET Alura\Nivel 1\Praticando C# - Orientação a objetos com classes\PraticandoCsharp\obj\Debug\net8.0\PraticandoCsharp.AssemblyInfo.cs
+H:\Desenvolvimento\Carreira .N ET Alura\Nivel 1\Praticando C# - Orientação a objetos com classes\PraticandoCsharp\obj\Debug\net8.0\PraticandoCsharp.csproj.CoreCompileInputs.cache
+H:\Desenvolvimento\Carreira .N ET Alura\Nivel 1\Praticando C# - Orientação a objetos com classes\PraticandoCsharp\obj\Debug\net8.0\PraticandoCsharp.sourcelink.json
+H:\Desenvolvimento\Carreira .N ET Alura\Nivel 1\Praticando C# - Orientação a objetos com classes\PraticandoCsharp\obj\Debug\net8.0\PraticandoCsharp.dll
+H:\Desenvolvimento\Carreira .N ET Alura\Nivel 1\Praticando C# - Orientação a objetos com classes\PraticandoCsharp\obj\Debug\net8.0\refint\PraticandoCsharp.dll
+H:\Desenvolvimento\Carreira .N ET Alura\Nivel 1\Praticando C# - Orientação a objetos com classes\PraticandoCsharp\obj\Debug\net8.0\PraticandoCsharp.pdb
+H:\Desenvolvimento\Carreira .N ET Alura\Nivel 1\Praticando C# - Orientação a objetos com classes\PraticandoCsharp\obj\Debug\net8.0\PraticandoCsharp.genruntimeconfig.cache
+H:\Desenvolvimento\Carreira .N ET Alura\Nivel 1\Praticando C# - Orientação a objetos com classes\PraticandoCsharp\obj\Debug\net8.0\ref\PraticandoCsharp.dll
