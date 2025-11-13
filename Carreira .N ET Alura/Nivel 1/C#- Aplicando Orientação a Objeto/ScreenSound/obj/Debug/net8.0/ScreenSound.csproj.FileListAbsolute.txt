@@ -12,3 +12,4 @@ H:\Desenvolvimento\Carreira .N ET Alura\Nivel 1\C#- Aplicando Orientação a Obj
 H:\Desenvolvimento\Carreira .N ET Alura\Nivel 1\C#- Aplicando Orientação a Objeto\ScreenSound\obj\Debug\net8.0\ScreenSound.pdb
 H:\Desenvolvimento\Carreira .N ET Alura\Nivel 1\C#- Aplicando Orientação a Objeto\ScreenSound\obj\Debug\net8.0\ScreenSound.genruntimeconfig.cache
 H:\Desenvolvimento\Carreira .N ET Alura\Nivel 1\C#- Aplicando Orientação a Objeto\ScreenSound\obj\Debug\net8.0\ref\ScreenSound.dll
+H:\Desenvolvimento\Carreira .N ET Alura\Nivel 1\C#- Aplicando Orientação a Objeto\ScreenSound\obj\Debug\net8.0\ScreenSound.sourcelink.json

@@ -1,0 +1,45 @@
+void RegistrarBanda()
+{
+    Console.Clear();
+    ExibirTituloDaOpcao("Registro das bandas");
+    Console.Write("Digite o nome da banda que deseja registrar: ");
+    string nomeDaBanda = Console.ReadLine()!;
+    bandasRegistradas.Add(nomeDaBanda, new Banda(nomeDaBanda));
+    Console.WriteLine($"A banda {nomeDaBanda} foi registrada com sucesso!");
+    Thread.Sleep(4000);
+    Console.Clear();
+    ExibirOpcoesDoMenu();
+}
+
+void ExibirDetalhes()
+{
+    Console.Clear();
+    ExibirTituloDaOpcao("Exibir detalhes da banda");
+    Console.Write("Digite o nome da banda que deseja conhecer melhor: ");
+    string nomeDaBanda = Console.ReadLine()!;
+    if (bandasRegistradas.ContainsKey(nomeDaBanda))
+    {
+        Banda banda = bandasRegistradas[nomeDaBanda];
+        var notasDaBanda = banda.Notas; // Supondo que existe uma propriedade Notas na classe Banda
+        if (notasDaBanda != null && notasDaBanda.Count > 0)
+        {
+            Console.WriteLine($"\nA média da banda {nomeDaBanda} é {notasDaBanda.Average()}.");
+        }
+        else
+        {
+            Console.WriteLine($"\nA banda {nomeDaBanda} ainda não possui avaliações.");
+        }
+        Console.WriteLine("Digite uma tecla para votar ao menu principal");
+        Console.ReadKey();
+        Console.Clear();
+        ExibirOpcoesDoMenu();
+    }
+    else
+    {
+        Console.WriteLine($"\nA banda {nomeDaBanda} não foi encontrada!");
+        Console.WriteLine("Digite uma tecla para voltar ao menu principal");
+        Console.ReadKey();
+        Console.Clear();
+        ExibirOpcoesDoMenu();
+    }
+}

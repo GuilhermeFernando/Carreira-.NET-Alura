@@ -1,6 +1,6 @@
-﻿using ScreenSound;
+﻿namespace ScreenSound;
 
-class Album
+public class Album
 {
     private List<Musica> musicas = new List<Musica>();
 
@@ -11,6 +11,7 @@ class Album
 
     public string Nome { get; }
     public int DuracaoTotal => musicas.Sum(m => m.Duracao);
+    public List<Musica> Musicas => musicas;
 
     public void AdicionarMusica(Musica musica)
     {

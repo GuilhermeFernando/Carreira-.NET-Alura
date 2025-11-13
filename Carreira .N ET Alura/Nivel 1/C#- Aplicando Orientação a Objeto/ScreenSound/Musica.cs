@@ -1,4 +1,6 @@
-﻿class Musica
+﻿namespace ScreenSound;
+
+public class Musica
 {
     public Musica(Banda artista, string nome)
     {
@@ -10,11 +12,7 @@
     public Banda Artista { get; }
     public int Duracao { get; set; }
     public bool Disponivel { get; set; }
-    public string DescricaoResumida =>
-        $"A música {Nome} pertence à banda {Artista}";
-
-
-
+    public string DescricaoResumida => $"A música {Nome} pertence à banda {Artista}";
 
     public void ExibirFichaTecnica()
     {
