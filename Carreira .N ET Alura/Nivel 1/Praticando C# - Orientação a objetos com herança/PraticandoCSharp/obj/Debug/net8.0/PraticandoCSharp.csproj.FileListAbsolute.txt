@@ -1,0 +1,15 @@
+H:\Desenvolvimento\Carreira .N ET Alura\Nivel 1\Praticando C# - Orientação a objetos com herança\PraticandoCSharp\obj\Debug\net8.0\PraticandoCSharp.GeneratedMSBuildEditorConfig.editorconfig
+H:\Desenvolvimento\Carreira .N ET Alura\Nivel 1\Praticando C# - Orientação a objetos com herança\PraticandoCSharp\obj\Debug\net8.0\PraticandoCSharp.AssemblyInfoInputs.cache
+H:\Desenvolvimento\Carreira .N ET Alura\Nivel 1\Praticando C# - Orientação a objetos com herança\PraticandoCSharp\obj\Debug\net8.0\PraticandoCSharp.AssemblyInfo.cs
+H:\Desenvolvimento\Carreira .N ET Alura\Nivel 1\Praticando C# - Orientação a objetos com herança\PraticandoCSharp\obj\Debug\net8.0\PraticandoCSharp.csproj.CoreCompileInputs.cache
+H:\Desenvolvimento\Carreira .N ET Alura\Nivel 1\Praticando C# - Orientação a objetos com herança\PraticandoCSharp\obj\Debug\net8.0\PraticandoCSharp.sourcelink.json
+H:\Desenvolvimento\Carreira .N ET Alura\Nivel 1\Praticando C# - Orientação a objetos com herança\PraticandoCSharp\bin\Debug\net8.0\PraticandoCSharp.exe
+H:\Desenvolvimento\Carreira .N ET Alura\Nivel 1\Praticando C# - Orientação a objetos com herança\PraticandoCSharp\bin\Debug\net8.0\PraticandoCSharp.deps.json
+H:\Desenvolvimento\Carreira .N ET Alura\Nivel 1\Praticando C# - Orientação a objetos com herança\PraticandoCSharp\bin\Debug\net8.0\PraticandoCSharp.runtimeconfig.json
+H:\Desenvolvimento\Carreira .N ET Alura\Nivel 1\Praticando C# - Orientação a objetos com herança\PraticandoCSharp\bin\Debug\net8.0\PraticandoCSharp.dll
+H:\Desenvolvimento\Carreira .N ET Alura\Nivel 1\Praticando C# - Orientação a objetos com herança\PraticandoCSharp\bin\Debug\net8.0\PraticandoCSharp.pdb
+H:\Desenvolvimento\Carreira .N ET Alura\Nivel 1\Praticando C# - Orientação a objetos com herança\PraticandoCSharp\obj\Debug\net8.0\PraticandoCSharp.dll
+H:\Desenvolvimento\Carreira .N ET Alura\Nivel 1\Praticando C# - Orientação a objetos com herança\PraticandoCSharp\obj\Debug\net8.0\refint\PraticandoCSharp.dll
+H:\Desenvolvimento\Carreira .N ET Alura\Nivel 1\Praticando C# - Orientação a objetos com herança\PraticandoCSharp\obj\Debug\net8.0\PraticandoCSharp.pdb
+H:\Desenvolvimento\Carreira .N ET Alura\Nivel 1\Praticando C# - Orientação a objetos com herança\PraticandoCSharp\obj\Debug\net8.0\PraticandoCSharp.genruntimeconfig.cache
+H:\Desenvolvimento\Carreira .N ET Alura\Nivel 1\Praticando C# - Orientação a objetos com herança\PraticandoCSharp\obj\Debug\net8.0\ref\PraticandoCSharp.dll
