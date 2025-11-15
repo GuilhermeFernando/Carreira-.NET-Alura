@@ -7,7 +7,7 @@ Console.WriteLine(@$"Dados do item 2:
     Nome: {item1.Nome};
     Descrição: {item1.Descricao};
     Preço: {item1.Preco};
-    Link: {item1.Estoque};
+    Link: {item1.Estoque};    
 ");
 
 ProdutoDigital item2 = new ProdutoDigital("Curso", "OO em C#",
@@ -18,7 +18,7 @@ Console.WriteLine(@$"Dados do item 2:
     Descrição: {item2.Descricao};
     Preço: {item2.Preco};
     Link: {item2.LinkDownload};
+    Está expirado: {item2.EstaExpirado()};
 ");
 
 
-Produto item3 = new Produto("Caneca", "Caneca personalizada", 30.00m, "Imagem da caneca");

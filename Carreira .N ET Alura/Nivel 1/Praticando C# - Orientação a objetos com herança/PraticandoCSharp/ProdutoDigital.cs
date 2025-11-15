@@ -1,5 +1,5 @@
 ﻿namespace PraticandoCSharp;
-internal class ProdutoDigital : Produto
+internal class ProdutoDigital : Produto, IExpiravel
 {
     private string linkDownload;
     private DateTime DataCompra;

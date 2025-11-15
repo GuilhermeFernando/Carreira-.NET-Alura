@@ -1,5 +1,5 @@
 ﻿namespace PraticandoCSharp;
-internal class Pedido
+internal class Pedido : IExpiravel
 {
     public bool Pago;
     public int Id { get; }
@@ -20,10 +20,10 @@ internal class Pedido
     {
         Console.WriteLine($"Pedido #{Id} - Cliente {Cliente}");
         Console.WriteLine($"Valor total: R$ {ValorTotal}");
-        Console.WriteLine($"Status: {(ExtaExpirado() ? "Expirado" : "Valido")}");
+        Console.WriteLine($"Status: {(EstaExpirado() ? "Expirado" : "Valido")}");
     }
 
-    public bool ExtaExpirado()
+    public bool EstaExpirado()
     {
         return !Pago && DateTime.Now > Data.AddMinutes(15);
     }
