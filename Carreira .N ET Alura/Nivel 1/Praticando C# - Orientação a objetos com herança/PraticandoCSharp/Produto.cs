@@ -5,7 +5,7 @@ abstract class Produto
     public string Descricao { get; }
     public decimal Preco { get; set; }
     public string imagem { get; private set; }
-
+    public Avaliacao Avaliacao { get;private  set; }
     public Produto(string nome, string descricao, decimal preco, string imagem)
     {        
         this.Nome = nome;
@@ -33,6 +33,11 @@ abstract class Produto
                 this.imagem = value;
             }
         }
+    }
+
+    public void Avaliar(int nota, string comentario)
+    {
+        Avaliacao = new Avaliacao(nota, comentario);
     }
 
 }

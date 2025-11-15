@@ -8,6 +8,8 @@ Console.WriteLine(@$"Dados do item 2:
     Descrição: {item1.Descricao};
     Preço: {item1.Preco};
     Link: {item1.Estoque};    
+    Nota: {item1.Avaliacao.Nota};]
+    Comentário: {item1.Avaliacao.Comentario};
 ");
 
 ProdutoDigital item2 = new ProdutoDigital("Curso", "OO em C#",
