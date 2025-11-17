@@ -1,0 +1,15 @@
+H:\Desenvolvimento\Carreira .N ET Alura\Nivel 1\Praticando C# - Orientação a objetos com encapsulamento\PraticandoCSharpEncaps\bin\Debug\net8.0\PraticandoCSharpEncaps.exe
+H:\Desenvolvimento\Carreira .N ET Alura\Nivel 1\Praticando C# - Orientação a objetos com encapsulamento\PraticandoCSharpEncaps\bin\Debug\net8.0\PraticandoCSharpEncaps.deps.json
+H:\Desenvolvimento\Carreira .N ET Alura\Nivel 1\Praticando C# - Orientação a objetos com encapsulamento\PraticandoCSharpEncaps\bin\Debug\net8.0\PraticandoCSharpEncaps.runtimeconfig.json
+H:\Desenvolvimento\Carreira .N ET Alura\Nivel 1\Praticando C# - Orientação a objetos com encapsulamento\PraticandoCSharpEncaps\bin\Debug\net8.0\PraticandoCSharpEncaps.dll
+H:\Desenvolvimento\Carreira .N ET Alura\Nivel 1\Praticando C# - Orientação a objetos com encapsulamento\PraticandoCSharpEncaps\bin\Debug\net8.0\PraticandoCSharpEncaps.pdb
+H:\Desenvolvimento\Carreira .N ET Alura\Nivel 1\Praticando C# - Orientação a objetos com encapsulamento\PraticandoCSharpEncaps\obj\Debug\net8.0\PraticandoCSharpEncaps.GeneratedMSBuildEditorConfig.editorconfig
+H:\Desenvolvimento\Carreira .N ET Alura\Nivel 1\Praticando C# - Orientação a objetos com encapsulamento\PraticandoCSharpEncaps\obj\Debug\net8.0\PraticandoCSharpEncaps.AssemblyInfoInputs.cache
+H:\Desenvolvimento\Carreira .N ET Alura\Nivel 1\Praticando C# - Orientação a objetos com encapsulamento\PraticandoCSharpEncaps\obj\Debug\net8.0\PraticandoCSharpEncaps.AssemblyInfo.cs
+H:\Desenvolvimento\Carreira .N ET Alura\Nivel 1\Praticando C# - Orientação a objetos com encapsulamento\PraticandoCSharpEncaps\obj\Debug\net8.0\PraticandoCSharpEncaps.csproj.CoreCompileInputs.cache
+H:\Desenvolvimento\Carreira .N ET Alura\Nivel 1\Praticando C# - Orientação a objetos com encapsulamento\PraticandoCSharpEncaps\obj\Debug\net8.0\PraticandoCSharpEncaps.sourcelink.json
+H:\Desenvolvimento\Carreira .N ET Alura\Nivel 1\Praticando C# - Orientação a objetos com encapsulamento\PraticandoCSharpEncaps\obj\Debug\net8.0\PraticandoCSharpEncaps.dll
+H:\Desenvolvimento\Carreira .N ET Alura\Nivel 1\Praticando C# - Orientação a objetos com encapsulamento\PraticandoCSharpEncaps\obj\Debug\net8.0\refint\PraticandoCSharpEncaps.dll
+H:\Desenvolvimento\Carreira .N ET Alura\Nivel 1\Praticando C# - Orientação a objetos com encapsulamento\PraticandoCSharpEncaps\obj\Debug\net8.0\PraticandoCSharpEncaps.pdb
+H:\Desenvolvimento\Carreira .N ET Alura\Nivel 1\Praticando C# - Orientação a objetos com encapsulamento\PraticandoCSharpEncaps\obj\Debug\net8.0\PraticandoCSharpEncaps.genruntimeconfig.cache
+H:\Desenvolvimento\Carreira .N ET Alura\Nivel 1\Praticando C# - Orientação a objetos com encapsulamento\PraticandoCSharpEncaps\obj\Debug\net8.0\ref\PraticandoCSharpEncaps.dll
